@@ -1,5 +1,3 @@
-
-
 document.addEventListener('DOMContentLoaded', () => {
     // Custom Cursor
     const cursorDot = document.getElementById('cursor-dot');
